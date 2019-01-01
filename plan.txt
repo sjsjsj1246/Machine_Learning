@@ -1,0 +1,49 @@
+pre condition : 확률과 통계 매우 중요하다!!!  선형대수 적당히 할줄 알면됌
+
+1. 코세라 머신러닝(앤드류 응) 1달 내외로 끝낼 수 있음
+
+2. 코세라 딥러닝 전문분야 (5개 강좌) 대략 2주에 1개씩 해보도록~
+
+위에 두개 세세하게 모든것을 외우려 하지 마라~ 컨셉을 잡도록
+
+
+
+핸즈온 머신러닝(자세히 읽도록 특히 앞부분 머신러닝부분)
+http://www.yes24.com/24/goods/59878826
+
+파이썬 라이브러리를 활용한 데이터 분석(캐글할때 자주 들춰보게 될것)(안사도됨)
+https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=31423242
+
+머신러닝 탐구생활
+http://www.yes24.com/24/goods/63830327
+
+
+
+
+아래 두개는 군대에서 하십쇼(고민해보고 더 깊이 안할꺼면 하지마셈)
+Pattern Recognition and Machine Learning
+http://www.yes24.com/24/Goods/64189352
+
+Deep Learning
+https://www.aladin.co.kr/m/mproduct.aspx?ItemId=85562630
+
+
+
+주로 쓸 라이브러리들
+사이킷 런(쓸 알고리즘이 있다면 여기에 검색해서 공부하는 용도)
+https://scikit-learn.org/stable/documentation.html
+
+판다스(마스터 디그리 따야함)
+https://pandas.pydata.org/pandas-docs/stable/
+
+
+
+주로 쓰는 알고리즘
+XGBoost
+https://xgboost.readthedocs.io/en/latest/
+
+LGBM
+https://lightgbm.readthedocs.io/en/latest/Python-Intro.html
+
+CatBoost
+https://tech.yandex.com/catboost/doc/dg/concepts/about-docpage/
