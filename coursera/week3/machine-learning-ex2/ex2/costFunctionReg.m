@@ -25,7 +25,6 @@ grad_reg = lambda * theta;
 grad_reg(1) = 0;
 grad = grad + grad_reg;
 
-% You need to return the following variables correctly
 J = cost / m + (lambda / (2.0 * m)) * sum(theta(2:size(theta)) .^ 2);
 grad = grad / m;
 
